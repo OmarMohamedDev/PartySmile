@@ -1,0 +1,26 @@
+Passi da seguire per l'installazione del Social Network PartySmile:
+
+1) Decomprimere l’archivio .zip consegnato all'interno della cartella pubblica del proprio spazio server.
+
+2) Aggiungere i permessi di scrittura alla cartella decompressa sullo spazio server e a tutti i file e le cartelle 
+contenute al suo interno. 
+
+2a) E' possibile effettuare velocemente questa modifica tramite il client web ftp sul sito delle facoltà:
+https://www.educ.di.unito.it/webftp/index.php. Selezionare la cartella appena decompressa, cliccare in alto
+a sinistra su chmod, selezionare i checkboxes per impostare i permessi di scrittura e quelli per esprimere
+la volontà di volerli applicare anche a file e cartelle sottostanti. Fatto questo, effettuare la modifica.
+
+3) Accedere via browser alla pagina index.php
+caricata sul localhost.
+
+4) Si verrà automaticamente reindirizzati ad una pagina dove verranno richiesti alcuni valori.
+Impostarli come descritto di seguito:
+
+- username: omarmohamed
+- password: kairi555
+- nomehost: localhost:8200
+- nomedb: dbomarmohamed
+
+5) Verrà creato automaticamente un primo utente superamministratore. 
+Con le suddette credenziali si potrà accedere al sito attraverso la pagina di login 
+collegata alla pagina principale del socialnetwork una volta terminata la suddetta procedura.

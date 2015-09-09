@@ -1,0 +1,3 @@
+
+# # av:PHP-RG
+php_flag register_globals on

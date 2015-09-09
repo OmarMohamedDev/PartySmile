@@ -1,0 +1,2 @@
+ <div class="header"><img src="./images/partysmilelogo.jpg" alt="partysmilelogo" name="partysmilelogo" width="100%" height="133" id="partysmilelogo" style=" display:block;">
+    <!-- end .header --></div>
